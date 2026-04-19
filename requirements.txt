@@ -1,0 +1,5 @@
+aiohttp
+pydantic
+sqlalchemy
+python-dotenv
+# other essential packages for the AI agent framework
